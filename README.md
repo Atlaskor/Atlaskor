@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atlaskor
 - 👀 I’m interested in creating tools to assist in everyday operation, in work, and home.
-- 📫 How to reach me atlaskor@mediakor.com
+- 📫 How to reach me atlaskorpc@gmail.com
 - ⚡ Fun fact: I <3 Dell servers.
 
 <!---
